@@ -6,7 +6,7 @@
 - Now I am learning Data Science for updating my skills
 
 ##Skils
-- Java, SQL, Python
+- Java, SQL, python, Spring
 - Github
 
 
